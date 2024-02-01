@@ -19,7 +19,8 @@ Module 2 Challenge: Professional Portfolio
 -Accessing my portfolio is straightforward:
 ![Screenshot (15)](https://github.com/Fablecain/cain-pro-portfolio/assets/139589280/b73bad0b-aaf6-47fb-9980-42a93c3f2be1)
 
--Visit the following URL: Portfolio Website
+-Visit the following URL: 
+https://fablecain.github.io/cain-pro-portfolio/
 
 -The website is designed to be intuitive and easy to navigate.
 
