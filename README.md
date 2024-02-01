@@ -26,7 +26,7 @@ Module 2 Challenge: Professional Portfolio
 ## Usage
 -Explore the portfolio to learn more about my projects and professional background. The navigation links at the top allow you to jump to different sections of the website, including About Me, My Work, and Contact Information.
 
-##Features
+## Features
 
 -Responsive Design: The website adapts to screen size and device, ensuring a great user experience on desktops, tablets, and smartphones.
 -Interactive Projects Section: Click on any project image to visit the live deployed application or GitHub repository.
